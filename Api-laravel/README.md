@@ -58,3 +58,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 "# Api-laravel"  
 
+<img width="1895" height="981" alt="Capture d&#39;écran 2026-04-15 162140" src="https://github.com/user-attachments/assets/fbf52e21-fc20-42f5-bd68-8431b3e892e5" />
+<img width="1752" height="836" alt="Capture d&#39;écran 2026-04-15 162506" src="https://github.com/user-attachments/assets/35da1c95-7ae8-40be-947b-4243f4cc6aba" />
+<img width="1586" height="980" alt="Capture d&#39;écran 2026-04-15 162739" src="https://github.com/user-attachments/assets/f74cb620-0191-449b-ac27-6d66336032e9" />
+<img width="1790" height="647" alt="Capture d&#39;écran 2026-04-15 162925" src="https://github.com/user-attachments/assets/e11f84e6-8c56-43d1-b0e0-9700d1487aca" />
+<img width="1807" height="995" alt="Capture d&#39;écran 2026-04-15 163353" src="https://github.com/user-attachments/assets/3e109718-27d8-4707-9792-a7dfdcbab9d1" />
+<img width="1660" height="859" alt="Capture d&#39;écran 2026-04-15 163845" src="https://github.com/user-attachments/assets/1b131bb1-7c59-4349-927c-706704e59a51" />
+<img width="1791" height="791" alt="Capture d&#39;écran 2026-04-15 164142" src="https://github.com/user-attachments/assets/ee6e7fb7-e20d-479a-8754-47b9ce5be887" />
+<img width="1895" height="973" alt="Capture d&#39;écran 2026-04-15 164400" src="https://github.com/user-attachments/assets/9c8b329e-a510-4ed9-ada8-7ca9cb6e357d" />
+
+
